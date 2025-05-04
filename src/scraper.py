@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 
-url = "https://www.imdb.com/chart/top"
+url = "https://www.imdb.com/chart/top/?ref_=nv_mv_250"
 
 """
     To Avoid getting blocked from IMDB Server, headers are needed.
@@ -19,6 +19,9 @@ try:
     
     print("Successfully fetched the IMDb Top 250 page.")
     soup = BeautifulSoup(response.text, 'html.parser')
+    
+    with open('imdb_top250_pretty2.html', 'w', encoding='utf-8') as file:
+        file.write(soup.prettify())
     
     movies = soup.find_all("div", class_="sc-5179a348-0 kfocva cli-children")
         
