@@ -36,7 +36,10 @@ try:
             for movie in data["itemListElement"]
         ]
 
-    
+    with open("../data/raw/data.json","w") as f:
+        json.dump(movies_data, f, indent=4,ensure_ascii=False)   
+        
+    print("Saved movies to raw folder ✅")
 # return if error  
 except requests.exceptions.RequestException as e:
     print(f"Failed to fetch the page. Error: {e}")
