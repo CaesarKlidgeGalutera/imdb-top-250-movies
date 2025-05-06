@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import json
+from datetime import datetime
 
 url = "https://www.imdb.com/chart/top/?ref_=nv_mv_250"
 
@@ -45,9 +46,13 @@ try:
                 for movie in edges
             ]
             
+            scraped_data = {
+                "scraped_at": datetime.now().isoformat(), #local time
+                "movies": movies_data
+            }
 
             with open("../data/raw/data.json","w") as f:
-                json.dump(movies_data, f, indent=4,ensure_ascii=False)  
+                json.dump(scraped_data, f, indent=4,ensure_ascii=False)  
                 
             print("Saved movies to raw folder ✅")
               
