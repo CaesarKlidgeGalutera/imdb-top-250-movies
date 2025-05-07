@@ -51,8 +51,8 @@ try:
                 "movies": movies_data
             }
 
-            with open("../data/raw/data.json","w") as f:
-                json.dump(scraped_data, f, indent=4,ensure_ascii=False)  
+            with open("../data/raw/data.json","w") as file:
+                json.dump(scraped_data, file, indent=4,ensure_ascii=False)  
                 
             print("Saved movies to raw folder ✅")
               
