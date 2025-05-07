@@ -11,7 +11,7 @@
             "movie_rating": "R",
             "rating_summary": 9.3,
             "vote_count": 3040524,
-            "run_time_seconds": 8520
+            "run_time_seconds": "2h 22m"
         },
         {
             "rank": 2,
@@ -24,7 +24,7 @@
             "movie_rating": "R",
             "rating_summary": 9.2,
             "vote_count": 2122370,
-            "run_time_seconds": 10500
+            "run_time_seconds": "2h 55m"
         },
         {
             "rank": 3,
@@ -38,7 +38,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 9,
             "vote_count": 3017304,
-            "run_time_seconds": 9120
+            "run_time_seconds": "2h 32m"
         },
         {
             "rank": 4,
@@ -51,7 +51,7 @@
             "movie_rating": "R",
             "rating_summary": 9,
             "vote_count": 1427838,
-            "run_time_seconds": 12120
+            "run_time_seconds": "3h 22m"
         },
         {
             "rank": 5,
@@ -64,7 +64,7 @@
             "movie_rating": "Approved",
             "rating_summary": 9,
             "vote_count": 923872,
-            "run_time_seconds": 5760
+            "run_time_seconds": "1h 36m"
         },
         {
             "rank": 6,
@@ -78,7 +78,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 9,
             "vote_count": 2075839,
-            "run_time_seconds": 12060
+            "run_time_seconds": "3h 21m"
         },
         {
             "rank": 7,
@@ -92,7 +92,7 @@
             "movie_rating": "R",
             "rating_summary": 9,
             "vote_count": 1520893,
-            "run_time_seconds": 11700
+            "run_time_seconds": "3h 15m"
         },
         {
             "rank": 8,
@@ -105,7 +105,7 @@
             "movie_rating": "R",
             "rating_summary": 8.9,
             "vote_count": 2332443,
-            "run_time_seconds": 9240
+            "run_time_seconds": "2h 34m"
         },
         {
             "rank": 9,
@@ -119,7 +119,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.9,
             "vote_count": 2105691,
-            "run_time_seconds": 10680
+            "run_time_seconds": "2h 58m"
         },
         {
             "rank": 10,
@@ -132,7 +132,7 @@
             "movie_rating": "R",
             "rating_summary": 8.8,
             "vote_count": 852130,
-            "run_time_seconds": 10680
+            "run_time_seconds": "2h 58m"
         },
         {
             "rank": 11,
@@ -145,7 +145,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.8,
             "vote_count": 2376590,
-            "run_time_seconds": 8520
+            "run_time_seconds": "2h 22m"
         },
         {
             "rank": 12,
@@ -159,7 +159,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.8,
             "vote_count": 1871609,
-            "run_time_seconds": 10740
+            "run_time_seconds": "2h 59m"
         },
         {
             "rank": 13,
@@ -173,7 +173,7 @@
             "movie_rating": "R",
             "rating_summary": 8.8,
             "vote_count": 2461876,
-            "run_time_seconds": 8340
+            "run_time_seconds": "2h 19m"
         },
         {
             "rank": 14,
@@ -187,7 +187,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.8,
             "vote_count": 2680254,
-            "run_time_seconds": 8880
+            "run_time_seconds": "2h 28m"
         },
         {
             "rank": 15,
@@ -201,7 +201,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.7,
             "vote_count": 1439732,
-            "run_time_seconds": 7440
+            "run_time_seconds": "2h 4m"
         },
         {
             "rank": 16,
@@ -214,7 +214,7 @@
             "movie_rating": "R",
             "rating_summary": 8.7,
             "vote_count": 2153332,
-            "run_time_seconds": 8160
+            "run_time_seconds": "2h 16m"
         },
         {
             "rank": 17,
@@ -228,7 +228,7 @@
             "movie_rating": "R",
             "rating_summary": 8.7,
             "vote_count": 1324225,
-            "run_time_seconds": 8700
+            "run_time_seconds": "2h 25m"
         },
         {
             "rank": 18,
@@ -242,7 +242,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.7,
             "vote_count": 2341128,
-            "run_time_seconds": 10140
+            "run_time_seconds": "2h 49m"
         },
         {
             "rank": 19,
@@ -254,7 +254,7 @@
             "movie_rating": "R",
             "rating_summary": 8.7,
             "vote_count": 1115579,
-            "run_time_seconds": 7980
+            "run_time_seconds": "2h 13m"
         },
         {
             "rank": 20,
@@ -268,7 +268,7 @@
             "movie_rating": "R",
             "rating_summary": 8.6,
             "vote_count": 1908890,
-            "run_time_seconds": 7620
+            "run_time_seconds": "2h 7m"
         },
         {
             "rank": 21,
@@ -282,7 +282,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.6,
             "vote_count": 527239,
-            "run_time_seconds": 7800
+            "run_time_seconds": "2h 10m"
         },
         {
             "rank": 22,
@@ -296,7 +296,7 @@
             "movie_rating": "R",
             "rating_summary": 8.6,
             "vote_count": 1633275,
-            "run_time_seconds": 7080
+            "run_time_seconds": "1h 58m"
         },
         {
             "rank": 23,
@@ -309,7 +309,7 @@
             "movie_rating": "Not Rated",
             "rating_summary": 8.6,
             "vote_count": 383623,
-            "run_time_seconds": 12420
+            "run_time_seconds": "3h 27m"
         },
         {
             "rank": 24,
@@ -322,7 +322,7 @@
             "movie_rating": "R",
             "rating_summary": 8.6,
             "vote_count": 1568431,
-            "run_time_seconds": 10140
+            "run_time_seconds": "2h 49m"
         },
         {
             "rank": 25,
@@ -335,7 +335,7 @@
             "movie_rating": "R",
             "rating_summary": 8.6,
             "vote_count": 836656,
-            "run_time_seconds": 7800
+            "run_time_seconds": "2h 10m"
         },
         {
             "rank": 26,
@@ -349,7 +349,7 @@
             "movie_rating": "R",
             "rating_summary": 8.6,
             "vote_count": 1483935,
-            "run_time_seconds": 11340
+            "run_time_seconds": "3h 9m"
         },
         {
             "rank": 27,
@@ -363,7 +363,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.6,
             "vote_count": 777484,
-            "run_time_seconds": 6960
+            "run_time_seconds": "1h 56m"
         },
         {
             "rank": 28,
@@ -377,7 +377,7 @@
             "movie_rating": "R",
             "rating_summary": 8.6,
             "vote_count": 1231513,
-            "run_time_seconds": 8220
+            "run_time_seconds": "2h 17m"
         },
         {
             "rank": 29,
@@ -391,7 +391,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.6,
             "vote_count": 1506604,
-            "run_time_seconds": 7260
+            "run_time_seconds": "2h 1m"
         },
         {
             "rank": 30,
@@ -405,7 +405,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.5,
             "vote_count": 1376171,
-            "run_time_seconds": 6960
+            "run_time_seconds": "1h 56m"
         },
         {
             "rank": 31,
@@ -419,7 +419,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.6,
             "vote_count": 908986,
-            "run_time_seconds": 7440
+            "run_time_seconds": "2h 4m"
         },
         {
             "rank": 32,
@@ -433,7 +433,7 @@
             "movie_rating": "R",
             "rating_summary": 8.5,
             "vote_count": 967276,
-            "run_time_seconds": 9000
+            "run_time_seconds": "2h 30m"
         },
         {
             "rank": 33,
@@ -447,7 +447,7 @@
             "movie_rating": "R",
             "rating_summary": 8.5,
             "vote_count": 1757433,
-            "run_time_seconds": 9300
+            "run_time_seconds": "2h 35m"
         },
         {
             "rank": 34,
@@ -460,7 +460,7 @@
             "movie_rating": "R",
             "rating_summary": 8.5,
             "vote_count": 1060446,
-            "run_time_seconds": 7920
+            "run_time_seconds": "2h 12m"
         },
         {
             "rank": 35,
@@ -474,7 +474,7 @@
             "movie_rating": "R",
             "rating_summary": 8.5,
             "vote_count": 751893,
-            "run_time_seconds": 6540
+            "run_time_seconds": "1h 49m"
         },
         {
             "rank": 36,
@@ -488,7 +488,7 @@
             "movie_rating": "G",
             "rating_summary": 8.5,
             "vote_count": 1202259,
-            "run_time_seconds": 5280
+            "run_time_seconds": "1h 28m"
         },
         {
             "rank": 37,
@@ -502,7 +502,7 @@
             "movie_rating": "Not Rated",
             "rating_summary": 8.5,
             "vote_count": 348260,
-            "run_time_seconds": 5280
+            "run_time_seconds": "1h 28m"
         },
         {
             "rank": 38,
@@ -516,7 +516,7 @@
             "movie_rating": "R",
             "rating_summary": 8.5,
             "vote_count": 1486265,
-            "run_time_seconds": 9060
+            "run_time_seconds": "2h 31m"
         },
         {
             "rank": 39,
@@ -529,7 +529,7 @@
             "movie_rating": "R",
             "rating_summary": 8.5,
             "vote_count": 1072707,
-            "run_time_seconds": 6360
+            "run_time_seconds": "1h 46m"
         },
         {
             "rank": 40,
@@ -542,7 +542,7 @@
             "movie_rating": "Not Rated",
             "rating_summary": 8.6,
             "vote_count": 79435,
-            "run_time_seconds": 7980
+            "run_time_seconds": "2h 13m"
         },
         {
             "rank": 41,
@@ -555,7 +555,7 @@
             "movie_rating": "R",
             "rating_summary": 8.5,
             "vote_count": 1230187,
-            "run_time_seconds": 7140
+            "run_time_seconds": "1h 59m"
         },
         {
             "rank": 42,
@@ -569,11 +569,11 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.5,
             "vote_count": 1513105,
-            "run_time_seconds": 7800
+            "run_time_seconds": "2h 10m"
         },
         {
             "rank": 43,
-            "title": "Léon: The Professional",
+            "title": "L\u00e9on: The Professional",
             "release_date": "18-11-1994",
             "genre": [
                 "Action",
@@ -583,7 +583,7 @@
             "movie_rating": "R",
             "rating_summary": 8.5,
             "vote_count": 1301596,
-            "run_time_seconds": 6600
+            "run_time_seconds": "1h 50m"
         },
         {
             "rank": 44,
@@ -597,7 +597,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.5,
             "vote_count": 453689,
-            "run_time_seconds": 8400
+            "run_time_seconds": "2h 20m"
         },
         {
             "rank": 45,
@@ -611,7 +611,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.5,
             "vote_count": 630724,
-            "run_time_seconds": 6120
+            "run_time_seconds": "1h 42m"
         },
         {
             "rank": 46,
@@ -625,7 +625,7 @@
             "movie_rating": "R",
             "rating_summary": 8.5,
             "vote_count": 1188836,
-            "run_time_seconds": 6360
+            "run_time_seconds": "1h 46m"
         },
         {
             "rank": 47,
@@ -638,7 +638,7 @@
             "movie_rating": "R",
             "rating_summary": 8.5,
             "vote_count": 977251,
-            "run_time_seconds": 6720
+            "run_time_seconds": "1h 52m"
         },
         {
             "rank": 48,
@@ -651,7 +651,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.5,
             "vote_count": 300983,
-            "run_time_seconds": 10440
+            "run_time_seconds": "2h 54m"
         },
         {
             "rank": 49,
@@ -664,7 +664,7 @@
             "movie_rating": "R",
             "rating_summary": 8.5,
             "vote_count": 1014965,
-            "run_time_seconds": 7020
+            "run_time_seconds": "1h 57m"
         },
         {
             "rank": 50,
@@ -678,7 +678,7 @@
             "movie_rating": "G",
             "rating_summary": 8.5,
             "vote_count": 272674,
-            "run_time_seconds": 5220
+            "run_time_seconds": "1h 27m"
         },
         {
             "rank": 51,
@@ -692,7 +692,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.5,
             "vote_count": 545685,
-            "run_time_seconds": 6720
+            "run_time_seconds": "1h 52m"
         },
         {
             "rank": 52,
@@ -705,7 +705,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.5,
             "vote_count": 367796,
-            "run_time_seconds": 9960
+            "run_time_seconds": "2h 46m"
         },
         {
             "rank": 53,
@@ -717,7 +717,7 @@
             "movie_rating": "R",
             "rating_summary": 8.5,
             "vote_count": 1789497,
-            "run_time_seconds": 9900
+            "run_time_seconds": "2h 45m"
         },
         {
             "rank": 54,
@@ -731,7 +731,7 @@
             "movie_rating": "G",
             "rating_summary": 8.5,
             "vote_count": 206795,
-            "run_time_seconds": 5220
+            "run_time_seconds": "1h 27m"
         },
         {
             "rank": 55,
@@ -745,7 +745,7 @@
             "movie_rating": "R",
             "rating_summary": 8.4,
             "vote_count": 741552,
-            "run_time_seconds": 8820
+            "run_time_seconds": "2h 27m"
         },
         {
             "rank": 56,
@@ -759,11 +759,11 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.5,
             "vote_count": 628111,
-            "run_time_seconds": 9960
+            "run_time_seconds": "2h 46m"
         },
         {
             "rank": 57,
-            "title": "WALL·E",
+            "title": "WALL\u00b7E",
             "release_date": "27-6-2008",
             "genre": [
                 "Animation",
@@ -773,7 +773,7 @@
             "movie_rating": "G",
             "rating_summary": 8.4,
             "vote_count": 1259762,
-            "run_time_seconds": 5880
+            "run_time_seconds": "1h 38m"
         },
         {
             "rank": 58,
@@ -786,7 +786,7 @@
             "movie_rating": "R",
             "rating_summary": 8.4,
             "vote_count": 1377675,
-            "run_time_seconds": 6780
+            "run_time_seconds": "1h 53m"
         },
         {
             "rank": 59,
@@ -799,7 +799,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.4,
             "vote_count": 1073417,
-            "run_time_seconds": 6900
+            "run_time_seconds": "1h 55m"
         },
         {
             "rank": 60,
@@ -813,7 +813,7 @@
             "movie_rating": "R",
             "rating_summary": 8.4,
             "vote_count": 427402,
-            "run_time_seconds": 8220
+            "run_time_seconds": "2h 17m"
         },
         {
             "rank": 61,
@@ -827,7 +827,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.4,
             "vote_count": 1285577,
-            "run_time_seconds": 8940
+            "run_time_seconds": "2h 29m"
         },
         {
             "rank": 62,
@@ -840,7 +840,7 @@
             "movie_rating": "Approved",
             "rating_summary": 8.4,
             "vote_count": 248665,
-            "run_time_seconds": 6600
+            "run_time_seconds": "1h 50m"
         },
         {
             "rank": 63,
@@ -854,7 +854,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.4,
             "vote_count": 729697,
-            "run_time_seconds": 7020
+            "run_time_seconds": "1h 57m"
         },
         {
             "rank": 64,
@@ -868,7 +868,7 @@
             "movie_rating": "Approved",
             "rating_summary": 8.4,
             "vote_count": 149767,
-            "run_time_seconds": 6960
+            "run_time_seconds": "1h 56m"
         },
         {
             "rank": 65,
@@ -881,7 +881,7 @@
             "movie_rating": "Approved",
             "rating_summary": 8.4,
             "vote_count": 225796,
-            "run_time_seconds": 5280
+            "run_time_seconds": "1h 28m"
         },
         {
             "rank": 66,
@@ -894,7 +894,7 @@
             "movie_rating": "R",
             "rating_summary": 8.4,
             "vote_count": 1165520,
-            "run_time_seconds": 8760
+            "run_time_seconds": "2h 26m"
         },
         {
             "rank": 67,
@@ -908,7 +908,7 @@
             "movie_rating": "G",
             "rating_summary": 8.4,
             "vote_count": 248601,
-            "run_time_seconds": 7500
+            "run_time_seconds": "2h 5m"
         },
         {
             "rank": 68,
@@ -921,7 +921,7 @@
             "movie_rating": "N/A",
             "rating_summary": 8.8,
             "vote_count": 147083,
-            "run_time_seconds": 8820
+            "run_time_seconds": "2h 27m"
         },
         {
             "rank": 69,
@@ -935,7 +935,7 @@
             "movie_rating": "R",
             "rating_summary": 8.4,
             "vote_count": 808158,
-            "run_time_seconds": 8220
+            "run_time_seconds": "2h 17m"
         },
         {
             "rank": 70,
@@ -949,7 +949,7 @@
             "movie_rating": "R",
             "rating_summary": 8.4,
             "vote_count": 1680502,
-            "run_time_seconds": 9180
+            "run_time_seconds": "2h 33m"
         },
         {
             "rank": 71,
@@ -963,7 +963,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.4,
             "vote_count": 1911631,
-            "run_time_seconds": 9840
+            "run_time_seconds": "2h 44m"
         },
         {
             "rank": 72,
@@ -977,7 +977,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.4,
             "vote_count": 649032,
-            "run_time_seconds": 6300
+            "run_time_seconds": "1h 45m"
         },
         {
             "rank": 73,
@@ -991,7 +991,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.4,
             "vote_count": 448204,
-            "run_time_seconds": 9600
+            "run_time_seconds": "2h 40m"
         },
         {
             "rank": 74,
@@ -1005,7 +1005,7 @@
             "movie_rating": "G",
             "rating_summary": 8.3,
             "vote_count": 1121480,
-            "run_time_seconds": 4860
+            "run_time_seconds": "1h 21m"
         },
         {
             "rank": 75,
@@ -1019,7 +1019,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.4,
             "vote_count": 1355241,
-            "run_time_seconds": 10860
+            "run_time_seconds": "3h 1m"
         },
         {
             "rank": 76,
@@ -1032,7 +1032,7 @@
             "movie_rating": "R",
             "rating_summary": 8.3,
             "vote_count": 1136371,
-            "run_time_seconds": 7560
+            "run_time_seconds": "2h 6m"
         },
         {
             "rank": 77,
@@ -1046,7 +1046,7 @@
             "movie_rating": "R",
             "rating_summary": 8.3,
             "vote_count": 678207,
-            "run_time_seconds": 7200
+            "run_time_seconds": "2h 0m"
         },
         {
             "rank": 78,
@@ -1059,7 +1059,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.3,
             "vote_count": 537287,
-            "run_time_seconds": 5700
+            "run_time_seconds": "1h 35m"
         },
         {
             "rank": 79,
@@ -1072,7 +1072,7 @@
             "movie_rating": "N/A",
             "rating_summary": 8.4,
             "vote_count": 279019,
-            "run_time_seconds": 8940
+            "run_time_seconds": "2h 29m"
         },
         {
             "rank": 80,
@@ -1084,7 +1084,7 @@
             "movie_rating": "R",
             "rating_summary": 8.3,
             "vote_count": 1248128,
-            "run_time_seconds": 7320
+            "run_time_seconds": "2h 2m"
         },
         {
             "rank": 81,
@@ -1098,7 +1098,7 @@
             "movie_rating": "R",
             "rating_summary": 8.3,
             "vote_count": 1128688,
-            "run_time_seconds": 10680
+            "run_time_seconds": "2h 58m"
         },
         {
             "rank": 82,
@@ -1112,7 +1112,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.3,
             "vote_count": 459813,
-            "run_time_seconds": 7980
+            "run_time_seconds": "2h 13m"
         },
         {
             "rank": 83,
@@ -1126,7 +1126,7 @@
             "movie_rating": "N/A",
             "rating_summary": 8.4,
             "vote_count": 356295,
-            "run_time_seconds": 6360
+            "run_time_seconds": "1h 46m"
         },
         {
             "rank": 84,
@@ -1140,7 +1140,7 @@
             "movie_rating": "Not Rated",
             "rating_summary": 8.4,
             "vote_count": 60048,
-            "run_time_seconds": 8580
+            "run_time_seconds": "2h 23m"
         },
         {
             "rank": 85,
@@ -1153,7 +1153,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.4,
             "vote_count": 458021,
-            "run_time_seconds": 10200
+            "run_time_seconds": "2h 50m"
         },
         {
             "rank": 86,
@@ -1167,7 +1167,7 @@
             "movie_rating": "R",
             "rating_summary": 8.3,
             "vote_count": 1607101,
-            "run_time_seconds": 7320
+            "run_time_seconds": "2h 2m"
         },
         {
             "rank": 87,
@@ -1180,7 +1180,7 @@
             "movie_rating": "R",
             "rating_summary": 8.3,
             "vote_count": 394767,
-            "run_time_seconds": 13740
+            "run_time_seconds": "3h 49m"
         },
         {
             "rank": 88,
@@ -1192,7 +1192,7 @@
             "movie_rating": "R",
             "rating_summary": 8.4,
             "vote_count": 115939,
-            "run_time_seconds": 7560
+            "run_time_seconds": "2h 6m"
         },
         {
             "rank": 89,
@@ -1206,7 +1206,7 @@
             "movie_rating": "G",
             "rating_summary": 8.3,
             "vote_count": 272342,
-            "run_time_seconds": 6180
+            "run_time_seconds": "1h 43m"
         },
         {
             "rank": 90,
@@ -1218,7 +1218,7 @@
             "movie_rating": "N/A",
             "rating_summary": 8.8,
             "vote_count": 26300,
-            "run_time_seconds": 5700
+            "run_time_seconds": "1h 35m"
         },
         {
             "rank": 91,
@@ -1232,7 +1232,7 @@
             "movie_rating": "Not Rated",
             "rating_summary": 8.3,
             "vote_count": 111591,
-            "run_time_seconds": 8520
+            "run_time_seconds": "2h 22m"
         },
         {
             "rank": 92,
@@ -1244,7 +1244,7 @@
             "movie_rating": "NC-17",
             "rating_summary": 8.3,
             "vote_count": 938039,
-            "run_time_seconds": 6120
+            "run_time_seconds": "1h 42m"
         },
         {
             "rank": 93,
@@ -1258,7 +1258,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.3,
             "vote_count": 1163710,
-            "run_time_seconds": 7860
+            "run_time_seconds": "2h 11m"
         },
         {
             "rank": 94,
@@ -1272,7 +1272,7 @@
             "movie_rating": "G",
             "rating_summary": 8.3,
             "vote_count": 930929,
-            "run_time_seconds": 6180
+            "run_time_seconds": "1h 43m"
         },
         {
             "rank": 95,
@@ -1284,7 +1284,7 @@
             "movie_rating": "R",
             "rating_summary": 8.3,
             "vote_count": 387683,
-            "run_time_seconds": 6900
+            "run_time_seconds": "1h 55m"
         },
         {
             "rank": 96,
@@ -1296,7 +1296,7 @@
             "movie_rating": "Not Rated",
             "rating_summary": 8.3,
             "vote_count": 96257,
-            "run_time_seconds": 8580
+            "run_time_seconds": "2h 23m"
         },
         {
             "rank": 97,
@@ -1310,7 +1310,7 @@
             "movie_rating": "R",
             "rating_summary": 8.3,
             "vote_count": 1135471,
-            "run_time_seconds": 6480
+            "run_time_seconds": "1h 48m"
         },
         {
             "rank": 98,
@@ -1323,7 +1323,7 @@
             "movie_rating": "G",
             "rating_summary": 8.3,
             "vote_count": 752966,
-            "run_time_seconds": 8940
+            "run_time_seconds": "2h 29m"
         },
         {
             "rank": 99,
@@ -1336,7 +1336,7 @@
             "movie_rating": "R",
             "rating_summary": 8.3,
             "vote_count": 1131620,
-            "run_time_seconds": 5940
+            "run_time_seconds": "1h 39m"
         },
         {
             "rank": 100,
@@ -1350,7 +1350,7 @@
             "movie_rating": "R",
             "rating_summary": 8.3,
             "vote_count": 227225,
-            "run_time_seconds": 7860
+            "run_time_seconds": "2h 11m"
         },
         {
             "rank": 101,
@@ -1364,7 +1364,7 @@
             "movie_rating": "Approved",
             "rating_summary": 8.3,
             "vote_count": 208734,
-            "run_time_seconds": 7500
+            "run_time_seconds": "2h 5m"
         },
         {
             "rank": 102,
@@ -1378,7 +1378,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.3,
             "vote_count": 328876,
-            "run_time_seconds": 13620
+            "run_time_seconds": "3h 47m"
         },
         {
             "rank": 103,
@@ -1391,7 +1391,7 @@
             "movie_rating": "R",
             "rating_summary": 8.3,
             "vote_count": 964514,
-            "run_time_seconds": 10200
+            "run_time_seconds": "2h 50m"
         },
         {
             "rank": 104,
@@ -1405,7 +1405,7 @@
             "movie_rating": "Approved",
             "rating_summary": 8.3,
             "vote_count": 174706,
-            "run_time_seconds": 6420
+            "run_time_seconds": "1h 47m"
         },
         {
             "rank": 105,
@@ -1419,7 +1419,7 @@
             "movie_rating": "R",
             "rating_summary": 8.3,
             "vote_count": 757289,
-            "run_time_seconds": 10200
+            "run_time_seconds": "2h 50m"
         },
         {
             "rank": 106,
@@ -1433,7 +1433,7 @@
             "movie_rating": "Approved",
             "rating_summary": 8.3,
             "vote_count": 360140,
-            "run_time_seconds": 8160
+            "run_time_seconds": "2h 16m"
         },
         {
             "rank": 107,
@@ -1447,7 +1447,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.3,
             "vote_count": 1180621,
-            "run_time_seconds": 5760
+            "run_time_seconds": "1h 36m"
         },
         {
             "rank": 108,
@@ -1460,7 +1460,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.3,
             "vote_count": 480682,
-            "run_time_seconds": 7140
+            "run_time_seconds": "1h 59m"
         },
         {
             "rank": 109,
@@ -1474,7 +1474,7 @@
             "movie_rating": "Passed",
             "rating_summary": 8.3,
             "vote_count": 176894,
-            "run_time_seconds": 5940
+            "run_time_seconds": "1h 39m"
         },
         {
             "rank": 110,
@@ -1487,7 +1487,7 @@
             "movie_rating": "R",
             "rating_summary": 8.2,
             "vote_count": 821265,
-            "run_time_seconds": 6960
+            "run_time_seconds": "1h 56m"
         },
         {
             "rank": 111,
@@ -1501,11 +1501,11 @@
             "movie_rating": "PG",
             "rating_summary": 8.2,
             "vote_count": 444681,
-            "run_time_seconds": 7680
+            "run_time_seconds": "2h 8m"
         },
         {
             "rank": 112,
-            "title": "Amélie",
+            "title": "Am\u00e9lie",
             "release_date": "8-2-2002",
             "genre": [
                 "Comedy",
@@ -1514,7 +1514,7 @@
             "movie_rating": "R",
             "rating_summary": 8.3,
             "vote_count": 818087,
-            "run_time_seconds": 7320
+            "run_time_seconds": "2h 2m"
         },
         {
             "rank": 113,
@@ -1526,7 +1526,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.3,
             "vote_count": 269111,
-            "run_time_seconds": 7380
+            "run_time_seconds": "2h 3m"
         },
         {
             "rank": 114,
@@ -1539,7 +1539,7 @@
             "movie_rating": "Approved",
             "rating_summary": 8.3,
             "vote_count": 343081,
-            "run_time_seconds": 7740
+            "run_time_seconds": "2h 9m"
         },
         {
             "rank": 115,
@@ -1552,7 +1552,7 @@
             "movie_rating": "R",
             "rating_summary": 8.2,
             "vote_count": 911025,
-            "run_time_seconds": 8160
+            "run_time_seconds": "2h 16m"
         },
         {
             "rank": 116,
@@ -1565,7 +1565,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.3,
             "vote_count": 217594,
-            "run_time_seconds": 9720
+            "run_time_seconds": "2h 42m"
         },
         {
             "rank": 117,
@@ -1578,7 +1578,7 @@
             "movie_rating": "R",
             "rating_summary": 8.2,
             "vote_count": 989518,
-            "run_time_seconds": 7920
+            "run_time_seconds": "2h 12m"
         },
         {
             "rank": 118,
@@ -1592,7 +1592,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.3,
             "vote_count": 290170,
-            "run_time_seconds": 7740
+            "run_time_seconds": "2h 9m"
         },
         {
             "rank": 119,
@@ -1605,7 +1605,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.2,
             "vote_count": 838037,
-            "run_time_seconds": 7620
+            "run_time_seconds": "2h 7m"
         },
         {
             "rank": 120,
@@ -1619,7 +1619,7 @@
             "movie_rating": "R",
             "rating_summary": 8.3,
             "vote_count": 888238,
-            "run_time_seconds": 10800
+            "run_time_seconds": "3h 0m"
         },
         {
             "rank": 121,
@@ -1632,7 +1632,7 @@
             "movie_rating": "Not Rated",
             "rating_summary": 8.3,
             "vote_count": 194208,
-            "run_time_seconds": 9180
+            "run_time_seconds": "2h 33m"
         },
         {
             "rank": 122,
@@ -1645,7 +1645,7 @@
             "movie_rating": "R",
             "rating_summary": 8.2,
             "vote_count": 945495,
-            "run_time_seconds": 6120
+            "run_time_seconds": "1h 42m"
         },
         {
             "rank": 123,
@@ -1659,7 +1659,7 @@
             "movie_rating": "R",
             "rating_summary": 8.2,
             "vote_count": 727078,
-            "run_time_seconds": 7140
+            "run_time_seconds": "1h 59m"
         },
         {
             "rank": 124,
@@ -1673,7 +1673,7 @@
             "movie_rating": "R",
             "rating_summary": 8.2,
             "vote_count": 640685,
-            "run_time_seconds": 8280
+            "run_time_seconds": "2h 18m"
         },
         {
             "rank": 125,
@@ -1685,7 +1685,7 @@
             "movie_rating": "Not Rated",
             "rating_summary": 8.2,
             "vote_count": 185222,
-            "run_time_seconds": 5340
+            "run_time_seconds": "1h 29m"
         },
         {
             "rank": 126,
@@ -1699,7 +1699,7 @@
             "movie_rating": "R",
             "rating_summary": 8.2,
             "vote_count": 388276,
-            "run_time_seconds": 9360
+            "run_time_seconds": "2h 36m"
         },
         {
             "rank": 127,
@@ -1713,7 +1713,7 @@
             "movie_rating": "Not Rated",
             "rating_summary": 8.3,
             "vote_count": 225246,
-            "run_time_seconds": 9660
+            "run_time_seconds": "2h 41m"
         },
         {
             "rank": 128,
@@ -1727,7 +1727,7 @@
             "movie_rating": "R",
             "rating_summary": 8.2,
             "vote_count": 1684781,
-            "run_time_seconds": 10800
+            "run_time_seconds": "3h 0m"
         },
         {
             "rank": 129,
@@ -1741,7 +1741,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.3,
             "vote_count": 127334,
-            "run_time_seconds": 9600
+            "run_time_seconds": "2h 40m"
         },
         {
             "rank": 130,
@@ -1754,7 +1754,7 @@
             "movie_rating": "R",
             "rating_summary": 8.2,
             "vote_count": 977854,
-            "run_time_seconds": 6840
+            "run_time_seconds": "1h 54m"
         },
         {
             "rank": 131,
@@ -1768,7 +1768,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.2,
             "vote_count": 634447,
-            "run_time_seconds": 7800
+            "run_time_seconds": "2h 10m"
         },
         {
             "rank": 132,
@@ -1782,7 +1782,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.2,
             "vote_count": 1645109,
-            "run_time_seconds": 8400
+            "run_time_seconds": "2h 20m"
         },
         {
             "rank": 133,
@@ -1795,7 +1795,7 @@
             "movie_rating": "R",
             "rating_summary": 8.2,
             "vote_count": 288217,
-            "run_time_seconds": 7920
+            "run_time_seconds": "2h 12m"
         },
         {
             "rank": 134,
@@ -1808,7 +1808,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.2,
             "vote_count": 1278514,
-            "run_time_seconds": 6180
+            "run_time_seconds": "1h 43m"
         },
         {
             "rank": 135,
@@ -1821,7 +1821,7 @@
             "movie_rating": "Approved",
             "rating_summary": 8.3,
             "vote_count": 91392,
-            "run_time_seconds": 10740
+            "run_time_seconds": "2h 59m"
         },
         {
             "rank": 136,
@@ -1835,7 +1835,7 @@
             "movie_rating": "Approved",
             "rating_summary": 8.2,
             "vote_count": 294837,
-            "run_time_seconds": 7260
+            "run_time_seconds": "2h 1m"
         },
         {
             "rank": 137,
@@ -1849,7 +1849,7 @@
             "movie_rating": "R",
             "rating_summary": 8.2,
             "vote_count": 1547728,
-            "run_time_seconds": 8280
+            "run_time_seconds": "2h 18m"
         },
         {
             "rank": 138,
@@ -1863,7 +1863,7 @@
             "movie_rating": "Passed",
             "rating_summary": 8.2,
             "vote_count": 141081,
-            "run_time_seconds": 4080
+            "run_time_seconds": "1h 8m"
         },
         {
             "rank": 139,
@@ -1876,7 +1876,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.2,
             "vote_count": 212744,
-            "run_time_seconds": 5820
+            "run_time_seconds": "1h 37m"
         },
         {
             "rank": 140,
@@ -1888,7 +1888,7 @@
             "movie_rating": "Approved",
             "rating_summary": 8.2,
             "vote_count": 144592,
-            "run_time_seconds": 8280
+            "run_time_seconds": "2h 18m"
         },
         {
             "rank": 141,
@@ -1902,7 +1902,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.2,
             "vote_count": 1118340,
-            "run_time_seconds": 7620
+            "run_time_seconds": "2h 7m"
         },
         {
             "rank": 142,
@@ -1914,7 +1914,7 @@
             "movie_rating": "R",
             "rating_summary": 8.2,
             "vote_count": 670380,
-            "run_time_seconds": 9480
+            "run_time_seconds": "2h 38m"
         },
         {
             "rank": 143,
@@ -1927,7 +1927,7 @@
             "movie_rating": "R",
             "rating_summary": 8.2,
             "vote_count": 591799,
-            "run_time_seconds": 10680
+            "run_time_seconds": "2h 58m"
         },
         {
             "rank": 144,
@@ -1941,7 +1941,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.2,
             "vote_count": 1098521,
-            "run_time_seconds": 6420
+            "run_time_seconds": "1h 47m"
         },
         {
             "rank": 145,
@@ -1955,7 +1955,7 @@
             "movie_rating": "R",
             "rating_summary": 8.2,
             "vote_count": 143647,
-            "run_time_seconds": 9600
+            "run_time_seconds": "2h 40m"
         },
         {
             "rank": 146,
@@ -1968,7 +1968,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.2,
             "vote_count": 774033,
-            "run_time_seconds": 7800
+            "run_time_seconds": "2h 10m"
         },
         {
             "rank": 147,
@@ -1982,7 +1982,7 @@
             "movie_rating": "R",
             "rating_summary": 8.2,
             "vote_count": 1120800,
-            "run_time_seconds": 7320
+            "run_time_seconds": "2h 2m"
         },
         {
             "rank": 148,
@@ -1996,7 +1996,7 @@
             "movie_rating": "R",
             "rating_summary": 8.2,
             "vote_count": 497966,
-            "run_time_seconds": 6540
+            "run_time_seconds": "1h 49m"
         },
         {
             "rank": 149,
@@ -2010,7 +2010,7 @@
             "movie_rating": "R",
             "rating_summary": 8.2,
             "vote_count": 724446,
-            "run_time_seconds": 7080
+            "run_time_seconds": "1h 58m"
         },
         {
             "rank": 150,
@@ -2023,7 +2023,7 @@
             "movie_rating": "R",
             "rating_summary": 8.2,
             "vote_count": 454094,
-            "run_time_seconds": 7800
+            "run_time_seconds": "2h 10m"
         },
         {
             "rank": 151,
@@ -2037,7 +2037,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.2,
             "vote_count": 1021290,
-            "run_time_seconds": 8100
+            "run_time_seconds": "2h 15m"
         },
         {
             "rank": 152,
@@ -2051,7 +2051,7 @@
             "movie_rating": "R",
             "rating_summary": 8.2,
             "vote_count": 1249774,
-            "run_time_seconds": 6660
+            "run_time_seconds": "1h 51m"
         },
         {
             "rank": 153,
@@ -2065,7 +2065,7 @@
             "movie_rating": "Approved",
             "rating_summary": 8.2,
             "vote_count": 137256,
-            "run_time_seconds": 7560
+            "run_time_seconds": "2h 6m"
         },
         {
             "rank": 154,
@@ -2079,7 +2079,7 @@
             "movie_rating": "R",
             "rating_summary": 8.2,
             "vote_count": 870434,
-            "run_time_seconds": 9180
+            "run_time_seconds": "2h 33m"
         },
         {
             "rank": 155,
@@ -2093,7 +2093,7 @@
             "movie_rating": "Not Rated",
             "rating_summary": 8.2,
             "vote_count": 137498,
-            "run_time_seconds": 6600
+            "run_time_seconds": "1h 50m"
         },
         {
             "rank": 156,
@@ -2107,7 +2107,7 @@
             "movie_rating": "G",
             "rating_summary": 8.2,
             "vote_count": 1159226,
-            "run_time_seconds": 6000
+            "run_time_seconds": "1h 40m"
         },
         {
             "rank": 157,
@@ -2121,7 +2121,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.2,
             "vote_count": 482530,
-            "run_time_seconds": 7140
+            "run_time_seconds": "1h 59m"
         },
         {
             "rank": 158,
@@ -2135,7 +2135,7 @@
             "movie_rating": "Approved",
             "rating_summary": 8.2,
             "vote_count": 268409,
-            "run_time_seconds": 10320
+            "run_time_seconds": "2h 52m"
         },
         {
             "rank": 159,
@@ -2149,7 +2149,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.2,
             "vote_count": 587408,
-            "run_time_seconds": 5460
+            "run_time_seconds": "1h 31m"
         },
         {
             "rank": 160,
@@ -2162,7 +2162,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.2,
             "vote_count": 272573,
-            "run_time_seconds": 7440
+            "run_time_seconds": "2h 4m"
         },
         {
             "rank": 161,
@@ -2176,7 +2176,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.2,
             "vote_count": 197679,
-            "run_time_seconds": 6300
+            "run_time_seconds": "1h 45m"
         },
         {
             "rank": 162,
@@ -2190,7 +2190,7 @@
             "movie_rating": "G",
             "rating_summary": 8.2,
             "vote_count": 346188,
-            "run_time_seconds": 14280
+            "run_time_seconds": "3h 58m"
         },
         {
             "rank": 163,
@@ -2204,7 +2204,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.2,
             "vote_count": 214016,
-            "run_time_seconds": 5760
+            "run_time_seconds": "1h 36m"
         },
         {
             "rank": 164,
@@ -2218,7 +2218,7 @@
             "movie_rating": "Not Rated",
             "rating_summary": 8.2,
             "vote_count": 189224,
-            "run_time_seconds": 5280
+            "run_time_seconds": "1h 28m"
         },
         {
             "rank": 165,
@@ -2232,7 +2232,7 @@
             "movie_rating": "R",
             "rating_summary": 8.1,
             "vote_count": 364712,
-            "run_time_seconds": 7800
+            "run_time_seconds": "2h 10m"
         },
         {
             "rank": 166,
@@ -2246,7 +2246,7 @@
             "movie_rating": "R",
             "rating_summary": 8.2,
             "vote_count": 232500,
-            "run_time_seconds": 7740
+            "run_time_seconds": "2h 9m"
         },
         {
             "rank": 167,
@@ -2259,7 +2259,7 @@
             "movie_rating": "R",
             "rating_summary": 8.1,
             "vote_count": 634744,
-            "run_time_seconds": 6420
+            "run_time_seconds": "1h 47m"
         },
         {
             "rank": 168,
@@ -2273,7 +2273,7 @@
             "movie_rating": "R",
             "rating_summary": 8.1,
             "vote_count": 1214232,
-            "run_time_seconds": 7920
+            "run_time_seconds": "2h 12m"
         },
         {
             "rank": 169,
@@ -2287,7 +2287,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.1,
             "vote_count": 866361,
-            "run_time_seconds": 5700
+            "run_time_seconds": "1h 35m"
         },
         {
             "rank": 170,
@@ -2301,7 +2301,7 @@
             "movie_rating": "R",
             "rating_summary": 8.1,
             "vote_count": 582455,
-            "run_time_seconds": 6900
+            "run_time_seconds": "1h 55m"
         },
         {
             "rank": 171,
@@ -2315,7 +2315,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.1,
             "vote_count": 241656,
-            "run_time_seconds": 9660
+            "run_time_seconds": "2h 41m"
         },
         {
             "rank": 172,
@@ -2327,7 +2327,7 @@
             "movie_rating": "R",
             "rating_summary": 8.1,
             "vote_count": 748923,
-            "run_time_seconds": 5580
+            "run_time_seconds": "1h 33m"
         },
         {
             "rank": 173,
@@ -2341,7 +2341,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.1,
             "vote_count": 1163679,
-            "run_time_seconds": 8460
+            "run_time_seconds": "2h 21m"
         },
         {
             "rank": 174,
@@ -2355,7 +2355,7 @@
             "movie_rating": "R",
             "rating_summary": 8.1,
             "vote_count": 395389,
-            "run_time_seconds": 7740
+            "run_time_seconds": "2h 9m"
         },
         {
             "rank": 175,
@@ -2368,7 +2368,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.2,
             "vote_count": 166400,
-            "run_time_seconds": 6120
+            "run_time_seconds": "1h 42m"
         },
         {
             "rank": 176,
@@ -2382,7 +2382,7 @@
             "movie_rating": "R",
             "rating_summary": 8.1,
             "vote_count": 755732,
-            "run_time_seconds": 5880
+            "run_time_seconds": "1h 38m"
         },
         {
             "rank": 177,
@@ -2396,7 +2396,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.1,
             "vote_count": 514031,
-            "run_time_seconds": 8400
+            "run_time_seconds": "2h 20m"
         },
         {
             "rank": 178,
@@ -2410,7 +2410,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.1,
             "vote_count": 996512,
-            "run_time_seconds": 7800
+            "run_time_seconds": "2h 10m"
         },
         {
             "rank": 179,
@@ -2422,7 +2422,7 @@
             "movie_rating": "R",
             "rating_summary": 8.1,
             "vote_count": 838681,
-            "run_time_seconds": 6960
+            "run_time_seconds": "1h 56m"
         },
         {
             "rank": 180,
@@ -2435,7 +2435,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.1,
             "vote_count": 745849,
-            "run_time_seconds": 7920
+            "run_time_seconds": "2h 12m"
         },
         {
             "rank": 181,
@@ -2448,7 +2448,7 @@
             "movie_rating": "G",
             "rating_summary": 8.1,
             "vote_count": 263243,
-            "run_time_seconds": 12720
+            "run_time_seconds": "3h 32m"
         },
         {
             "rank": 182,
@@ -2462,7 +2462,7 @@
             "movie_rating": "G",
             "rating_summary": 8.1,
             "vote_count": 407015,
-            "run_time_seconds": 5160
+            "run_time_seconds": "1h 26m"
         },
         {
             "rank": 183,
@@ -2476,7 +2476,7 @@
             "movie_rating": "R",
             "rating_summary": 8.1,
             "vote_count": 1164393,
-            "run_time_seconds": 7200
+            "run_time_seconds": "2h 0m"
         },
         {
             "rank": 184,
@@ -2490,7 +2490,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.2,
             "vote_count": 950027,
-            "run_time_seconds": 8880
+            "run_time_seconds": "2h 28m"
         },
         {
             "rank": 185,
@@ -2504,7 +2504,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.1,
             "vote_count": 193084,
-            "run_time_seconds": 11100
+            "run_time_seconds": "3h 5m"
         },
         {
             "rank": 186,
@@ -2517,7 +2517,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.1,
             "vote_count": 590368,
-            "run_time_seconds": 7680
+            "run_time_seconds": "2h 8m"
         },
         {
             "rank": 187,
@@ -2531,7 +2531,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.2,
             "vote_count": 85641,
-            "run_time_seconds": 5340
+            "run_time_seconds": "1h 29m"
         },
         {
             "rank": 188,
@@ -2545,7 +2545,7 @@
             "movie_rating": "R",
             "rating_summary": 8.1,
             "vote_count": 764253,
-            "run_time_seconds": 8040
+            "run_time_seconds": "2h 14m"
         },
         {
             "rank": 189,
@@ -2559,7 +2559,7 @@
             "movie_rating": "R",
             "rating_summary": 8.1,
             "vote_count": 358663,
-            "run_time_seconds": 6060
+            "run_time_seconds": "1h 41m"
         },
         {
             "rank": 190,
@@ -2572,7 +2572,7 @@
             "movie_rating": "R",
             "rating_summary": 8.1,
             "vote_count": 925756,
-            "run_time_seconds": 5940
+            "run_time_seconds": "1h 39m"
         },
         {
             "rank": 191,
@@ -2586,7 +2586,7 @@
             "movie_rating": "R",
             "rating_summary": 8.1,
             "vote_count": 636504,
-            "run_time_seconds": 8340
+            "run_time_seconds": "2h 19m"
         },
         {
             "rank": 192,
@@ -2600,7 +2600,7 @@
             "movie_rating": "R",
             "rating_summary": 8.1,
             "vote_count": 853613,
-            "run_time_seconds": 7020
+            "run_time_seconds": "1h 57m"
         },
         {
             "rank": 193,
@@ -2614,7 +2614,7 @@
             "movie_rating": "R",
             "rating_summary": 8.1,
             "vote_count": 1120067,
-            "run_time_seconds": 8940
+            "run_time_seconds": "2h 29m"
         },
         {
             "rank": 194,
@@ -2628,7 +2628,7 @@
             "movie_rating": "Not Rated",
             "rating_summary": 8.1,
             "vote_count": 240723,
-            "run_time_seconds": 7920
+            "run_time_seconds": "2h 12m"
         },
         {
             "rank": 195,
@@ -2642,7 +2642,7 @@
             "movie_rating": "G",
             "rating_summary": 8.1,
             "vote_count": 884157,
-            "run_time_seconds": 6660
+            "run_time_seconds": "1h 51m"
         },
         {
             "rank": 196,
@@ -2656,7 +2656,7 @@
             "movie_rating": "G",
             "rating_summary": 8.1,
             "vote_count": 1027001,
-            "run_time_seconds": 5520
+            "run_time_seconds": "1h 32m"
         },
         {
             "rank": 197,
@@ -2670,7 +2670,7 @@
             "movie_rating": "R",
             "rating_summary": 8.1,
             "vote_count": 195750,
-            "run_time_seconds": 7980
+            "run_time_seconds": "2h 13m"
         },
         {
             "rank": 198,
@@ -2684,7 +2684,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.1,
             "vote_count": 843112,
-            "run_time_seconds": 5880
+            "run_time_seconds": "1h 38m"
         },
         {
             "rank": 199,
@@ -2698,7 +2698,7 @@
             "movie_rating": "Approved",
             "rating_summary": 8.1,
             "vote_count": 123735,
-            "run_time_seconds": 5700
+            "run_time_seconds": "1h 35m"
         },
         {
             "rank": 200,
@@ -2712,7 +2712,7 @@
             "movie_rating": "R",
             "rating_summary": 8.1,
             "vote_count": 228285,
-            "run_time_seconds": 7320
+            "run_time_seconds": "2h 2m"
         },
         {
             "rank": 201,
@@ -2726,7 +2726,7 @@
             "movie_rating": "Passed",
             "rating_summary": 8.2,
             "vote_count": 61889,
-            "run_time_seconds": 2700
+            "run_time_seconds": "0h 45m"
         },
         {
             "rank": 202,
@@ -2740,7 +2740,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.1,
             "vote_count": 693749,
-            "run_time_seconds": 7440
+            "run_time_seconds": "2h 4m"
         },
         {
             "rank": 203,
@@ -2754,7 +2754,7 @@
             "movie_rating": "Not Rated",
             "rating_summary": 8.1,
             "vote_count": 195862,
-            "run_time_seconds": 5520
+            "run_time_seconds": "1h 32m"
         },
         {
             "rank": 204,
@@ -2767,7 +2767,7 @@
             "movie_rating": "R",
             "rating_summary": 8.1,
             "vote_count": 375350,
-            "run_time_seconds": 10980
+            "run_time_seconds": "3h 3m"
         },
         {
             "rank": 205,
@@ -2781,7 +2781,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.1,
             "vote_count": 521921,
-            "run_time_seconds": 9120
+            "run_time_seconds": "2h 32m"
         },
         {
             "rank": 206,
@@ -2795,7 +2795,7 @@
             "movie_rating": "Passed",
             "rating_summary": 8.1,
             "vote_count": 102638,
-            "run_time_seconds": 4680
+            "run_time_seconds": "1h 18m"
         },
         {
             "rank": 207,
@@ -2809,7 +2809,7 @@
             "movie_rating": "Not Rated",
             "rating_summary": 8.1,
             "vote_count": 70364,
-            "run_time_seconds": 9360
+            "run_time_seconds": "2h 36m"
         },
         {
             "rank": 208,
@@ -2822,7 +2822,7 @@
             "movie_rating": "Approved",
             "rating_summary": 8.1,
             "vote_count": 125898,
-            "run_time_seconds": 7740
+            "run_time_seconds": "2h 9m"
         },
         {
             "rank": 209,
@@ -2836,7 +2836,7 @@
             "movie_rating": "Approved",
             "rating_summary": 8.1,
             "vote_count": 172214,
-            "run_time_seconds": 6480
+            "run_time_seconds": "1h 48m"
         },
         {
             "rank": 210,
@@ -2849,7 +2849,7 @@
             "movie_rating": "Not Rated",
             "rating_summary": 8.1,
             "vote_count": 120360,
-            "run_time_seconds": 5520
+            "run_time_seconds": "1h 32m"
         },
         {
             "rank": 211,
@@ -2863,7 +2863,7 @@
             "movie_rating": "R",
             "rating_summary": 8.1,
             "vote_count": 889049,
-            "run_time_seconds": 8220
+            "run_time_seconds": "2h 17m"
         },
         {
             "rank": 212,
@@ -2876,7 +2876,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.1,
             "vote_count": 659304,
-            "run_time_seconds": 7200
+            "run_time_seconds": "2h 0m"
         },
         {
             "rank": 213,
@@ -2890,7 +2890,7 @@
             "movie_rating": "Approved",
             "rating_summary": 8.1,
             "vote_count": 189619,
-            "run_time_seconds": 6240
+            "run_time_seconds": "1h 44m"
         },
         {
             "rank": 214,
@@ -2902,7 +2902,7 @@
             "movie_rating": "Not Rated",
             "rating_summary": 8.1,
             "vote_count": 73828,
-            "run_time_seconds": 8220
+            "run_time_seconds": "2h 17m"
         },
         {
             "rank": 215,
@@ -2916,7 +2916,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.3,
             "vote_count": 106799,
-            "run_time_seconds": 8220
+            "run_time_seconds": "2h 17m"
         },
         {
             "rank": 216,
@@ -2930,7 +2930,7 @@
             "movie_rating": "R",
             "rating_summary": 8.1,
             "vote_count": 518446,
-            "run_time_seconds": 7740
+            "run_time_seconds": "2h 9m"
         },
         {
             "rank": 217,
@@ -2943,7 +2943,7 @@
             "movie_rating": "R",
             "rating_summary": 8.1,
             "vote_count": 889941,
-            "run_time_seconds": 7020
+            "run_time_seconds": "1h 57m"
         },
         {
             "rank": 218,
@@ -2957,7 +2957,7 @@
             "movie_rating": "R",
             "rating_summary": 8.1,
             "vote_count": 964048,
-            "run_time_seconds": 6420
+            "run_time_seconds": "1h 47m"
         },
         {
             "rank": 219,
@@ -2971,7 +2971,7 @@
             "movie_rating": "N/A",
             "rating_summary": 8.4,
             "vote_count": 67874,
-            "run_time_seconds": 8460
+            "run_time_seconds": "2h 21m"
         },
         {
             "rank": 220,
@@ -2984,7 +2984,7 @@
             "movie_rating": "Not Rated",
             "rating_summary": 8.1,
             "vote_count": 208312,
-            "run_time_seconds": 5760
+            "run_time_seconds": "1h 36m"
         },
         {
             "rank": 221,
@@ -2998,7 +2998,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.1,
             "vote_count": 1265113,
-            "run_time_seconds": 8580
+            "run_time_seconds": "2h 23m"
         },
         {
             "rank": 222,
@@ -3011,7 +3011,7 @@
             "movie_rating": "R",
             "rating_summary": 8.1,
             "vote_count": 467614,
-            "run_time_seconds": 7080
+            "run_time_seconds": "1h 58m"
         },
         {
             "rank": 223,
@@ -3024,7 +3024,7 @@
             "movie_rating": "Not Rated",
             "rating_summary": 8.1,
             "vote_count": 211450,
-            "run_time_seconds": 5880
+            "run_time_seconds": "1h 38m"
         },
         {
             "rank": 224,
@@ -3037,7 +3037,7 @@
             "movie_rating": "Approved",
             "rating_summary": 8.7,
             "vote_count": 225456,
-            "run_time_seconds": 9840
+            "run_time_seconds": "2h 44m"
         },
         {
             "rank": 225,
@@ -3051,7 +3051,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.1,
             "vote_count": 383630,
-            "run_time_seconds": 7260
+            "run_time_seconds": "2h 1m"
         },
         {
             "rank": 226,
@@ -3064,7 +3064,7 @@
             "movie_rating": "R",
             "rating_summary": 8.1,
             "vote_count": 455874,
-            "run_time_seconds": 7200
+            "run_time_seconds": "2h 0m"
         },
         {
             "rank": 227,
@@ -3077,7 +3077,7 @@
             "movie_rating": "R",
             "rating_summary": 8.1,
             "vote_count": 301903,
-            "run_time_seconds": 4800
+            "run_time_seconds": "1h 20m"
         },
         {
             "rank": 228,
@@ -3091,7 +3091,7 @@
             "movie_rating": "Approved",
             "rating_summary": 8.1,
             "vote_count": 74422,
-            "run_time_seconds": 10200
+            "run_time_seconds": "2h 50m"
         },
         {
             "rank": 229,
@@ -3103,7 +3103,7 @@
             "movie_rating": "R",
             "rating_summary": 8.1,
             "vote_count": 477338,
-            "run_time_seconds": 7320
+            "run_time_seconds": "2h 2m"
         },
         {
             "rank": 230,
@@ -3117,7 +3117,7 @@
             "movie_rating": "Passed",
             "rating_summary": 8.1,
             "vote_count": 64874,
-            "run_time_seconds": 6840
+            "run_time_seconds": "1h 54m"
         },
         {
             "rank": 231,
@@ -3131,7 +3131,7 @@
             "movie_rating": "G",
             "rating_summary": 8.1,
             "vote_count": 276135,
-            "run_time_seconds": 10320
+            "run_time_seconds": "2h 52m"
         },
         {
             "rank": 232,
@@ -3145,7 +3145,7 @@
             "movie_rating": "G",
             "rating_summary": 8.1,
             "vote_count": 450248,
-            "run_time_seconds": 6120
+            "run_time_seconds": "1h 42m"
         },
         {
             "rank": 233,
@@ -3159,7 +3159,7 @@
             "movie_rating": "PG",
             "rating_summary": 8,
             "vote_count": 854506,
-            "run_time_seconds": 6900
+            "run_time_seconds": "1h 55m"
         },
         {
             "rank": 234,
@@ -3173,7 +3173,7 @@
             "movie_rating": "G",
             "rating_summary": 8.1,
             "vote_count": 327988,
-            "run_time_seconds": 5580
+            "run_time_seconds": "1h 33m"
         },
         {
             "rank": 235,
@@ -3187,7 +3187,7 @@
             "movie_rating": "R",
             "rating_summary": 8.1,
             "vote_count": 534056,
-            "run_time_seconds": 7380
+            "run_time_seconds": "2h 3m"
         },
         {
             "rank": 236,
@@ -3201,7 +3201,7 @@
             "movie_rating": "R",
             "rating_summary": 8.1,
             "vote_count": 464037,
-            "run_time_seconds": 5340
+            "run_time_seconds": "1h 29m"
         },
         {
             "rank": 237,
@@ -3214,7 +3214,7 @@
             "movie_rating": "Not Rated",
             "rating_summary": 8.2,
             "vote_count": 97297,
-            "run_time_seconds": 6720
+            "run_time_seconds": "1h 52m"
         },
         {
             "rank": 238,
@@ -3226,7 +3226,7 @@
             "movie_rating": "R",
             "rating_summary": 8.1,
             "vote_count": 179077,
-            "run_time_seconds": 7260
+            "run_time_seconds": "2h 1m"
         },
         {
             "rank": 239,
@@ -3240,7 +3240,7 @@
             "movie_rating": "PG",
             "rating_summary": 8.1,
             "vote_count": 244452,
-            "run_time_seconds": 5160
+            "run_time_seconds": "1h 26m"
         },
         {
             "rank": 240,
@@ -3254,7 +3254,7 @@
             "movie_rating": "Not Rated",
             "rating_summary": 8.1,
             "vote_count": 188007,
-            "run_time_seconds": 8700
+            "run_time_seconds": "2h 25m"
         },
         {
             "rank": 241,
@@ -3268,7 +3268,7 @@
             "movie_rating": "Approved",
             "rating_summary": 8.1,
             "vote_count": 46928,
-            "run_time_seconds": 5940
+            "run_time_seconds": "1h 39m"
         },
         {
             "rank": 242,
@@ -3281,7 +3281,7 @@
             "movie_rating": "Not Rated",
             "rating_summary": 8.1,
             "vote_count": 70959,
-            "run_time_seconds": 7260
+            "run_time_seconds": "2h 1m"
         },
         {
             "rank": 243,
@@ -3294,7 +3294,7 @@
             "movie_rating": "Not Rated",
             "rating_summary": 8.1,
             "vote_count": 120148,
-            "run_time_seconds": 7800
+            "run_time_seconds": "2h 10m"
         },
         {
             "rank": 244,
@@ -3306,7 +3306,7 @@
             "movie_rating": "Approved",
             "rating_summary": 8.1,
             "vote_count": 104627,
-            "run_time_seconds": 7740
+            "run_time_seconds": "2h 9m"
         },
         {
             "rank": 245,
@@ -3320,7 +3320,7 @@
             "movie_rating": "R",
             "rating_summary": 8,
             "vote_count": 678907,
-            "run_time_seconds": 8880
+            "run_time_seconds": "2h 28m"
         },
         {
             "rank": 246,
@@ -3334,7 +3334,7 @@
             "movie_rating": "PG",
             "rating_summary": 8,
             "vote_count": 716015,
-            "run_time_seconds": 6060
+            "run_time_seconds": "1h 41m"
         },
         {
             "rank": 247,
@@ -3346,7 +3346,7 @@
             "movie_rating": "PG-13",
             "rating_summary": 8.1,
             "vote_count": 512541,
-            "run_time_seconds": 8760
+            "run_time_seconds": "2h 26m"
         },
         {
             "rank": 248,
@@ -3359,7 +3359,7 @@
             "movie_rating": "R",
             "rating_summary": 8,
             "vote_count": 267560,
-            "run_time_seconds": 9240
+            "run_time_seconds": "2h 34m"
         },
         {
             "rank": 249,
@@ -3373,7 +3373,7 @@
             "movie_rating": "Approved",
             "rating_summary": 8.1,
             "vote_count": 158896,
-            "run_time_seconds": 7800
+            "run_time_seconds": "2h 10m"
         },
         {
             "rank": 250,
@@ -3387,7 +3387,7 @@
             "movie_rating": "Not Rated",
             "rating_summary": 8.2,
             "vote_count": 107444,
-            "run_time_seconds": 19260
+            "run_time_seconds": "5h 21m"
         }
     ]
 }
