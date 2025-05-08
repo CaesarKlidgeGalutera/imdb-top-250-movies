@@ -54,7 +54,7 @@ try:
             with open("../data/raw/data.json","w") as file:
                 json.dump(scraped_data, file, indent=4,ensure_ascii=False)  
                 
-            print("Saved movies to raw folder ✅")
+            print("Successfully Scraped. Saved movies to raw folder ✅")
               
         except KeyError as e:
             print(f"Key error in JSON structure: {e}")
