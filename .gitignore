@@ -1,1 +1,5 @@
 .env
+airflow-env/
+logs/
+data/
+archive/

@@ -6,3 +6,4 @@ json
 datetime
 airflow
 docker-compose.yaml
+venv
