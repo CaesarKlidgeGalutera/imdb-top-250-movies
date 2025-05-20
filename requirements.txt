@@ -4,3 +4,5 @@ dotenv
 requests
 json
 datetime
+airflow
+docker-compose.yaml
